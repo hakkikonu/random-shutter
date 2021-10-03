@@ -1,7 +1,7 @@
 {
   "name": "Random Shutter",
   "author": "Hakkı Konu",
-  "description": "Brings a random photo from Unsplash",
+  "description": "Brings a random photo from Unsplash API",
   "version": "1.0",
   "manifest_version": 3,
   "background": {
