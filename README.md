@@ -1,4 +1,4 @@
-<p align="center"><img src="/icons/512x512.png" /></p>
+<p align="center"><img src="/icons/1280x800.png" /></p>
 
 # Random Shutter 📸
 
