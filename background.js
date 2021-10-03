@@ -1,4 +1,4 @@
-function getword(info, tab) {
+function visitLink(info, tab) {
   chrome.tabs.create({
     url: "https://source.unsplash.com/random",
   });
@@ -9,4 +9,4 @@ chrome.contextMenus.create({
   id: "this_is_my_unique_id_hakki",
 });
 
-chrome.contextMenus.onClicked.addListener(getword);
+chrome.contextMenus.onClicked.addListener(visitLink);
