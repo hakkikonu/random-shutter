@@ -1,3 +1,5 @@
+<p align="center"><img src="/icons/512x512.png" /></p>
+
 # Random Shutter 📸
 
 A Google Chrome extension that displays a random photo from the Unsplash API.
@@ -15,3 +17,6 @@ https://source.unsplash.com/
 ### Unsplash API terms
 
 https://unsplash.com/api-terms
+
+*Icons made by Freepik from www.flaticon.com*
+
